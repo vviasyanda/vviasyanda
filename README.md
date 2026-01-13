@@ -1,7 +1,7 @@
 <!-- ===== PIXEL TYPING HEADER ===== -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1200&color=FADADD&center=true&vCenter=true&width=900&lines=Hai%2C+Welcome!+%F0%9F%91%8B"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1200&color=FADADD&center=true&vCenter=true&width=900&lines=Hai%2C+Welcome!!"
     alt="Pixel typing"
   />
 </div>
@@ -10,7 +10,7 @@
 
 <!-- ===== GIF ===== -->
 <div align="center">
-  <img src="https://res.cloudinary.com/duvn4iyfd/image/upload/v1768319553/ezgif-7886bba216368592_o1uw1b.gif" width="180" alt="cat gif">
+  <img src="https://res.cloudinary.com/duvn4iyfd/image/upload/v1768319553/ezgif-7886bba216368592_o1uw1b.gif">
 </div>
 
 <br>
