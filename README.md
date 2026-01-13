@@ -10,7 +10,11 @@
 
 <!-- ===== GIF ===== -->
 <div align="center">
-  <img src="https://res.cloudinary.com/duvn4iyfd/image/upload/v1768319553/ezgif-7886bba216368592_o1uw1b.gif">
+  <img
+    src="https://res.cloudinary.com/duvn4iyfd/image/upload/v1768319553/ezgif-7886bba216368592_o1uw1b.gif"
+    width="180"
+    alt="coding gif"
+  >
 </div>
 
 <br>
@@ -24,50 +28,51 @@
   <br>
 
   <!-- ===== ABOUT ME ===== -->
- <div align="center">
-  <samp>
-    <b>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</b><br><br>
-    I’m <b>Syanda</b>, an active <b>6th-semester Data Science student at Universitas Negeri Surabaya</b> with interests and hands-on
-    experience in <b>data analysis, machine learning, text processing, digital image processing, and data mining</b>.
-    My experience has been developed through various <b>academic projects, case studies, and self-directed learning</b>.
-  </samp>
-</div>
+  <div align="center">
+    <samp>
+      <b>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</b><br><br>
+      I’m <b>Syanda</b>, an active <b>6th-semester Data Science student at Universitas Negeri Surabaya</b> with interests and hands-on
+      experience in <b>data analysis, machine learning, text processing, digital image processing, and data mining</b>.
+      My experience has been developed through various <b>academic projects, case studies, and self-directed learning</b>.
+    </samp>
+  </div>
 
   <br><br>
 
   <!-- ===== TOOLS ===== -->
-<div align="center">
-  <samp><b>🛠 Tools & Technologies</b></samp>
+  <div align="center">
+    <samp><b>🛠 Tools & Technologies</b></samp>
+    <br><br>
+
+    <img src="https://img.shields.io/badge/Python-2e3440?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
+    <img src="https://img.shields.io/badge/R-2e3440?style=for-the-badge&logo=r&logoColor=blue" alt="R"/>
+    <img src="https://img.shields.io/badge/SQL-2e3440?style=for-the-badge&logo=databricks&logoColor=red" alt="SQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-2e3440?style=for-the-badge&logo=postgresql&logoColor=blue" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Jupyter-2e3440?style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter"/>
+    <img src="https://img.shields.io/badge/Google%20Colab-2e3440?style=for-the-badge&logo=googlecolab&logoColor=yellow" alt="Google Colab"/>
+    <img src="https://img.shields.io/badge/VS%20Code-2e3440?style=for-the-badge&logo=visualstudiocode&logoColor=blue" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Looker%20Studio-2e3440?style=for-the-badge&logo=googleanalytics&logoColor=orange" alt="Looker Studio"/>
+    <img src="https://img.shields.io/badge/Tableau-2e3440?style=for-the-badge&logo=tableau&logoColor=blue" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Google%20Analytics-2e3440?style=for-the-badge&logo=googleanalytics&logoColor=orange" alt="Google Analytics"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-2e3440?style=for-the-badge&logo=microsoftexcel&logoColor=green" alt="Microsoft Excel"/>
+    <img src="https://img.shields.io/badge/JSON-2e3440?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+    <img src="https://img.shields.io/badge/Figma-2e3440?style=for-the-badge&logo=figma&logoColor=pink" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Git-2e3440?style=for-the-badge&logo=git&logoColor=orange" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </div>
+
   <br><br>
 
-  <img src="https://img.shields.io/badge/Python-2e3440?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/R-2e3440?style=for-the-badge&logo=r&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/SQL-2e3440?style=for-the-badge&logo=databricks&logoColor=red"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-2e3440?style=for-the-badge&logo=postgresql&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Jupyter-2e3440?style=for-the-badge&logo=jupyter&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-2e3440?style=for-the-badge&logo=googlecolab&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/VS%20Code-2e3440?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-2e3440?style=for-the-badge&logo=googleanalytics&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Tableau-2e3440?style=for-the-badge&logo=tableau&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Google%20Analytics-2e3440?style=for-the-badge&logo=googleanalytics&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-2e3440?style=for-the-badge&logo=microsoftexcel&logoColor=green"/>
-  <img src="https://img.shields.io/badge/JSON-2e3440?style=for-the-badge&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-2e3440?style=for-the-badge&logo=figma&logoColor=pink"/>
-  <img src="https://img.shields.io/badge/Git-2e3440?style=for-the-badge&logo=git&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- ===== PROJECTS ===== -->
+  <div align="center">
+    <samp><b>📂 𝓜𝔂 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</b></samp>
+    <br><br>
 
-</div>
-
+    🔗 <a href="https://github.com/orgs/DivSyanKa-DivaSyandaEka/repositories"><b>See all projects on GitHub</b></a>
+    <br><br>
+    🎨 <a href="https://www.figma.com/proto/OCTl38rSqAuUnGIBYXhYSE/CONCERTBUDDY?node-id=272-2328&p=f&t=FV2E1yl1MOcxtoyn-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=272%3A2309"><b>View my Figma prototype (ConcertBuddy)</b></a>
+  </div>
 
   <br>
-
-<div align="center">
-  <samp><b>📂 𝓜𝔂 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</b></samp>
-  <br><br>
-  🔗 <a href="https://github.com/orgs/DivSyanKa-DivaSyandaEka/repositories">
-    See all projects on GitHub
-  🔗 <a href="https://www.figma.com/proto/OCTl38rSqAuUnGIBYXhYSE/CONCERTBUDDY?node-id=272-2328&p=f&t=FV2E1yl1MOcxtoyn-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=272%3A2309">
-  </a>
-</div>
 
 </details>
