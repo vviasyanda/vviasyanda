@@ -40,60 +40,24 @@
   <samp><b>🛠 Tools & Technologies</b></samp>
   <br><br>
 
-  <!-- ICONS (yang pasti tampil) -->
-  <div style="display: inline_block">
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
-  </div>
+  <img src="https://img.shields.io/badge/Python-2e3440?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/R-2e3440?style=for-the-badge&logo=r&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/SQL-2e3440?style=for-the-badge&logo=databricks&logoColor=red"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-2e3440?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Jupyter-2e3440?style=for-the-badge&logo=jupyter&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-2e3440?style=for-the-badge&logo=googlecolab&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/VS%20Code-2e3440?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-2e3440?style=for-the-badge&logo=googleanalytics&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Tableau-2e3440?style=for-the-badge&logo=tableau&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-2e3440?style=for-the-badge&logo=googleanalytics&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-2e3440?style=for-the-badge&logo=microsoftexcel&logoColor=green"/>
+  <img src="https://img.shields.io/badge/JSON-2e3440?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-2e3440?style=for-the-badge&logo=figma&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/Git-2e3440?style=for-the-badge&logo=git&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=white"/>
 
-  <br><br>
-
-  <!-- TEXT (tools tanpa icon resmi) -->
-  <samp>
-    • Python • R • PostgreSQL • SQL<br>
-    • Jupyter Notebook • Google Colab<br>
-    • Looker Studio • Tableau<br>
-    • JSON
-  </samp>
 </div>
 
-
-  <br><br>
-
-  <!-- ===== PROJECTS ===== -->
-  <div align="center">
-    <samp><b>📂 Projects</b></samp>
-    <br><br>
-
-    <samp>
-      Seluruh project yang pernah saya kerjakan (tugas kuliah & kerja tim)
-      terdokumentasi dalam <b>repository organisasi GitHub</b> berikut:
-    </samp>
-
-    <br><br>
-
-    🔗 <b>GitHub Organization – Project Repositories</b><br>
-    👉 <a href="https://github.com/orgs/DivSyanKa-DivaSyandaEka/repositories">
-      https://github.com/orgs/DivSyanKa-DivaSyandaEka/repositories
-    </a>
-
-    <br><br>
-
-    <samp>
-      Project mencakup:
-      <br>
-      • Data Analysis & Visualization<br>
-      • Machine Learning<br>
-      • Text Processing / NLP<br>
-      • Digital Image Processing<br>
-      • Data Mining<br>
-      • Data Warehouse (SQL)
-    </samp>
-  </div>
 
   <br>
 
