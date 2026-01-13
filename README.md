@@ -1,8 +1,8 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=EAEAEA&center=true&vCenter=true&width=600&lines=Hai%2C+Welcome!+%F0%9F%91%8B" 
-    alt="Typing animation" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1200&color=FADADD&center=true&vCenter=true&width=700&lines=Hai%2C+Welcome!+%F0%9F%91%8B"
+    alt="Pixel typing animation"
   />
 </p>
 
