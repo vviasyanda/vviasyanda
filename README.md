@@ -10,7 +10,7 @@
 
 <!-- ===== GIF ===== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cat gif">
+  <img src="https://giphy.com/gifs/monstercat-edm-electronic-music-xT8qBsOjMOcdeGJIU8" width="180" alt="cat gif">
 </div>
 
 
