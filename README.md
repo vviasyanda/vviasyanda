@@ -10,8 +10,13 @@
 
 <!-- ===== GIF ===== -->
 <div align="center">
-  <img src="https://giphy.com/gifs/monstercat-edm-electronic-music-xT8qBsOjMOcdeGJIU8">
+  <img
+    src="https://res.cloudinary.com/duvn4iyfd/image/upload/v1768319553/ezgif-7886bba216368592_o1uw1b.gif"
+    width="180"
+    alt="coding gif"
+  >
 </div>
+
 
 <br>
 
@@ -69,13 +74,13 @@
     My projects with my friend (GitHub Organization)
   </a>
 
-  <br><br>
+  <br>
 
   🔗 <a href="https://github.com/vviasyanda?tab=repositories">
     My other projects (Personal GitHub Repositories)
   </a>
 
-  <br><br>
+  <br>
 
   🎨 <a href="https://www.figma.com/proto/OCTl38rSqAuUnGIBYXhYSE/CONCERTBUDDY?node-id=272-2328&p=f&t=FV2E1yl1MOcxtoyn-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=272%3A2309">
     ConcertBuddy (Figma Prototype)
