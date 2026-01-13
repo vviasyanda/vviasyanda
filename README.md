@@ -24,42 +24,43 @@
   <br>
 
   <!-- ===== ABOUT ME ===== -->
-  <div align="center">
-    <samp>
-      <b>👩‍🎓 About Me</b><br><br>
-      I’m <b>Syanda</b> — Mahasiswi aktif <b>Sains Data Semester 6, Universitas Negeri Surabaya</b> dengan minat dan pengalaman
-      dalam <b>analisis data, machine learning, text processing, pengolahan citra digital, serta data mining</b> yang diperoleh
-      melalui berbagai <b>proyek akademik, studi kasus, serta pelatihan mandiri</b>.
-    </samp>
-  </div>
+ <div align="center">
+  <samp>
+    <b>👩‍🎓 About Me</b><br><br>
+    I’m <b>Syanda</b>, mahasiswi aktif <b>Sains Data Semester 6, Universitas Negeri Surabaya</b> dengan minat dan pengalaman
+    dalam <b>analisis data, machine learning, text processing, pengolahan citra digital, serta data mining</b>
+    yang diperoleh melalui berbagai <b>proyek akademik, studi kasus, serta pelatihan mandiri</b>.
+  </samp>
+</div>
 
   <br><br>
 
   <!-- ===== TOOLS ===== -->
-  <div align="center">
-    <samp><b>🛠 Tools & Technologies</b></samp>
-    <br><br>
+<div align="center">
+  <samp><b>🛠 Tools & Technologies</b></samp>
+  <br><br>
 
-    <div style="display: inline_block">
-      <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-      <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" />
-      <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-      <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
-      <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoogleCloud-Dark.svg" />
-      <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
-      <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-      <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-    </div>
-
-    <br><br>
-
-    <samp>
-      • Python • R • PostgreSQL • SQL <br>
-      • Jupyter Notebook • Google Colab <br>
-      • Looker Studio • Tableau <br>
-      • JSON • Figma
-    </samp>
+  <!-- ICONS (yang pasti tampil) -->
+  <div style="display: inline_block">
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" />
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
+    <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
   </div>
+
+  <br><br>
+
+  <!-- TEXT (tools tanpa icon resmi) -->
+  <samp>
+    • Python • R • PostgreSQL • SQL<br>
+    • Jupyter Notebook • Google Colab<br>
+    • Looker Studio • Tableau<br>
+    • JSON
+  </samp>
+</div>
+
 
   <br><br>
 
