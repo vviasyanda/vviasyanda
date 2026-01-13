@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- ===== BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E1117&height=160&section=header&text=Data%20Science%20Projects&fontSize=36&fontColor=EAEAEA"/>
+</p>
 
-<!--
-**vviasyanda/vviasyanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I’m a **Data Science undergraduate student (Semester 6)** with a strong interest in **data-driven problem solving, machine learning, and intelligent systems**.  
+This GitHub repository showcases **projects I’ve worked on throughout my academic journey**, combining theory, implementation, and real-world datasets.
+
+**Areas of interest:**
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & AI  
+- 🧠 Text Processing & Computer Vision  
+- 🧩 Human–Computer Interaction & UI/UX  
+- 🗄️ Data Warehouse & Databases  
+
+---
+
+## 📚 Relevant Coursework
+
+- Machine Learning  
+- Artificial Intelligence  
+- Data Mining  
+- Text Processing  
+- Digital Image Processing  
+- Digital Signal Processing  
+- Human–Computer Interaction (HCI)  
+- UI/UX Design  
+- Data Warehouse  
+- Design & Analysis of Algorithms  
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Programming & Data**
+- 🐍 Python  
+- 📈 R  
+- 📓 Jupyter Notebook  
+- 🗄️ PostgreSQL  
+
+---
+
+## 📂 Projects
+
+This GitHub contains:
+- 🎓 Academic projects (course assignments & labs)  
+- 🧪 Exploratory data analysis & ML experiments  
+- 📊 Data mining & predictive modeling projects  
+- 🧠 AI-related implementations (text, image, signals)  
+
+📌 *Each repository includes documentation, methodology, and results where applicable.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Learning, experimenting, and growing through data.</i>
+</p>
