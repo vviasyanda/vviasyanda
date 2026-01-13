@@ -10,7 +10,7 @@
 
 <!-- ===== GIF ===== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cat gif">
+  <img src="https://res.cloudinary.com/duvn4iyfd/image/upload/v1768319553/ezgif-7886bba216368592_o1uw1b.gif" width="180" alt="cat gif">
 </div>
 
 <br>
@@ -26,10 +26,10 @@
   <!-- ===== ABOUT ME ===== -->
  <div align="center">
   <samp>
-    <b>👩‍🎓 About Me</b><br><br>
-    I’m <b>Syanda</b>, mahasiswi aktif <b>Sains Data Semester 6, Universitas Negeri Surabaya</b> dengan minat dan pengalaman
-    dalam <b>analisis data, machine learning, text processing, pengolahan citra digital, serta data mining</b>
-    yang diperoleh melalui berbagai <b>proyek akademik, studi kasus, serta pelatihan mandiri</b>.
+    <b>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</b><br><br>
+    I’m <b>Syanda</b>, an active <b>6th-semester Data Science student at Universitas Negeri Surabaya</b> with interests and hands-on
+    experience in <b>data analysis, machine learning, text processing, digital image processing, and data mining</b>.
+    My experience has been developed through various <b>academic projects, case studies, and self-directed learning</b>.
   </samp>
 </div>
 
@@ -60,5 +60,14 @@
 
 
   <br>
+
+<div align="center">
+  <samp><b>📂 𝓜𝔂 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</b></samp>
+  <br><br>
+  🔗 <a href="https://github.com/orgs/DivSyanKa-DivaSyandaEka/repositories">
+    See all projects on GitHub
+  🔗 <a href="https://www.figma.com/proto/OCTl38rSqAuUnGIBYXhYSE/CONCERTBUDDY?node-id=272-2328&p=f&t=FV2E1yl1MOcxtoyn-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=272%3A2309">
+  </a>
+</div>
 
 </details>
