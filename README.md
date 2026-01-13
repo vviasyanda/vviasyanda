@@ -11,11 +11,12 @@
 <!-- ===== GIF ===== -->
 <div align="center">
   <img
-    src="https://res.cloudinary.com/duvn4iyfd/image/upload/v1768319553/ezgif-7886bba216368592_o1uw1b.gif"
+    src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif"
     width="180"
-    alt="coding gif"
+    alt="monstercat gif"
   >
 </div>
+
 
 
 
