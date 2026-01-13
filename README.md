@@ -1,7 +1,8 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E1117&height=160&section=header&text=Data%20Science%20Projects&fontSize=36&fontColor=EAEAEA"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E1117&height=180&section=header&text=Hai,%20welcome!%20👋&fontSize=40&fontColor=EAEAEA&animation=fadeIn" />
 </p>
+
 
 ---
 
