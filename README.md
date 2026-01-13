@@ -45,8 +45,7 @@
 
 <div align="center">
   <samp><b>🛠 Tools & Technologies</b></samp>
-  <br><br>
-
+  <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=flat&logo=databricks&logoColor=white)
