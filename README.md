@@ -59,11 +59,12 @@
   ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
   ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
   ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+  ![Dash](https://img.shields.io/badge/Dash-2e3440?style=flat&logo=plotly&logoColor=white)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=black)
   ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
   ![Selenium](https://img.shields.io/badge/selenium-%2343B02A?style=flat&logo=selenium&logoColor=white)
+  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2e3440?style=flat&logo=python&logoColor=ffdd54)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
@@ -74,10 +75,8 @@
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-  ![Dash](https://img.shields.io/badge/Dash-2e3440?style=flat&logo=plotly&logoColor=white)
-  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2e3440?style=flat&logo=python&logoColor=ffdd54)
-
-
+  
+  
 </div>
 
 
