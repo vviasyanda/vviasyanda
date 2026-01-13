@@ -1,7 +1,11 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E1117&height=180&section=header&text=Hai,%20welcome!%20👋&fontSize=40&fontColor=EAEAEA&animation=fadeIn" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=EAEAEA&center=true&vCenter=true&width=600&lines=Hai%2C+Welcome!+%F0%9F%91%8B" 
+    alt="Typing animation" 
+  />
 </p>
+
 
 
 ---
