@@ -10,8 +10,13 @@
 
 <!-- ===== GIF ===== -->
 <div align="center">
-  <img src="https://giphy.com/gifs/monstercat-edm-electronic-music-xT8qBsOjMOcdeGJIU8" width="180" alt="cat gif">
+  <img
+    src="https://res.cloudinary.com/duvn4iyfd/image/upload/v1768319553/ezgif-7886bba216368592_o1uw1b.gif"
+    width="180"
+    alt="coding gif"
+  >
 </div>
+
 
 
 
@@ -84,5 +89,3 @@
   </a>
 </div>
 
-
-</details> tolong benerin
